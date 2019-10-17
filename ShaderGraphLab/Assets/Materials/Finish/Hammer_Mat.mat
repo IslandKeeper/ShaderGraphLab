@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Hammer_Mat
-  m_Shader: {fileID: -6465566751694194690, guid: bc4d833e7cc57a0478581d1350074d2e,
+  m_Shader: {fileID: -6465566751694194690, guid: 2a86f4db31c60be45aa5ef8df28a2318,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -94,6 +94,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_1CB8BC60: {r: 1.623529, g: 1.678431, b: 0.3843137, a: 0}
+    - Color_73BF0EEC: {r: 0.5754717, g: 0.56260955, b: 0.4478907, a: 0}
     - Color_8D87A733: {r: 2.32554, g: 2.293766, b: 2.1609972, a: 0}
     - Color_C8F8369A: {r: 1.0612857, g: 1.5490661, b: 3.0820901, a: 0}
     - Color_DEA495DB: {r: 0.8290868, g: 0.8375974, b: 2.2248912, a: 0}
